@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Loria.App": {
+      "commandName": "Project",
+      "commandLineArgs": "-d"
+    }
+  }
+}
